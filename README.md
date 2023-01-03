@@ -1,1 +1,1 @@
-# img-pixelify
+node indexOri.js --convert 'path'
