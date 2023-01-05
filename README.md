@@ -56,3 +56,10 @@ npx pixelify-image --convert-preview default 'https://raw.githubusercontent.com/
 ```
 
 <img width="191" alt="multiple_output" src="https://user-images.githubusercontent.com/20305442/210778119-0554a677-fbd5-43f8-a3ff-da16d8b73b51.png">
+
+
+###### Sample Arduino Matrix LED built with pixelify-image
+
+<img width="300" alt="heart" src="https://user-images.githubusercontent.com/20305442/210780634-e0019aa6-de30-4dae-9fd7-0da7c956cb4d.png">
+
+<img width="300" alt="smile" src="https://user-images.githubusercontent.com/20305442/210780655-69d09f55-e7c0-4993-aa2d-11f861b31391.png">
