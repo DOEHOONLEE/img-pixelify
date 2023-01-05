@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import chalk from 'chalk'
 import { createRequire } from "module";
 import { createCanvas, loadImage } from 'canvas'
