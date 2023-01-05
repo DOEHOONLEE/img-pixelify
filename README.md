@@ -23,7 +23,7 @@ You can have a pixelified image saved on your computer OR see the converted colo
 npx pixelify-image --convert-save default '/Users/doehoonlee/Documents/Projects/Personal/img-pixelify/examples/HEART.png'
 ```
 
-<img width="793" alt="Screen Shot 2023-01-05 at 9 02 42 PM" src="https://user-images.githubusercontent.com/20305442/210776054-346218bc-ef9c-46ce-9169-7db0eb9b06d4.png">
+<img width="94" alt="HEART_pixelified" src="https://user-images.githubusercontent.com/20305442/210777918-ee51d9d1-076e-4cbd-b715-583c1a5e09ee.png">
 
 
 * To get the color codes
@@ -47,3 +47,12 @@ npx pixelify-image --convert-preview default 'https://raw.githubusercontent.com/
 ```
 
 <img width="159" alt="Screen Shot 2023-01-05 at 9 05 00 PM" src="https://user-images.githubusercontent.com/20305442/210776481-adfb7b74-1953-4e93-93d2-c89ae9d8d844.png">
+
+
+* Multiple commands can be used with all commands
+
+```bash
+npx pixelify-image --convert-preview default 'https://raw.githubusercontent.com/DOEHOONLEE/img-pixelify/main/examples/HEART.png' 'https://raw.githubusercontent.com/DOEHOONLEE/img-pixelify/main/examples/pinkHeart.png' 'https://raw.githubusercontent.com/DOEHOONLEE/img-pixelify/main/examples/square.png'
+```
+
+<img width="191" alt="multiple_output" src="https://user-images.githubusercontent.com/20305442/210778119-0554a677-fbd5-43f8-a3ff-da16d8b73b51.png">

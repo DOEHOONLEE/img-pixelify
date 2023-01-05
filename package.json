@@ -1,6 +1,6 @@
 {
   "name": "pixelify-image",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "bin/index.js",
   "scripts": {
@@ -11,11 +11,15 @@
     "pixelify-image": "bin/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "doehoonlee",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.10.2",
     "chalk": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DOEHOONLEE/img-pixelify"
   },
   "type": "module"
 }
