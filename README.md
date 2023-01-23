@@ -6,6 +6,26 @@ You can have a pixelified image saved on your computer OR see the converted colo
 
 ## Usage
 
+
+#### With Installation
+
+* install the package
+
+```
+npm i pixelify-image
+```
+
+* to use in your project
+
+```
+import { pixelify } from 'pixelify-image'
+
+const { imagePixelContainer } = await pixelify('path/to/image.png', { width: matrixWidth, height: matrixHeight })
+
+// imagePixelContainer contains an array of color codes and brightness/intensity in it
+
+```
+
 #### Without Installation
 
 * PLEASE keep in mind
